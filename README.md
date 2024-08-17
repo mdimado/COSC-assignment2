@@ -47,7 +47,7 @@ Your task is to rectify these errors. Detailed descriptions of each issue are pr
 ## Expected outputs
 
 <img width="1440" alt="Screenshot 2024-08-17 at 9 31 41 PM" src="https://github.com/user-attachments/assets/a67d98b7-9168-438e-99e5-9884106b117d">
-<img width="1440" alt="Screenshot 2024-08-17 at 9 32 08 PM" src="https://github.com/user-attachments/assets/7e4d3f93-2d94-445b-8f03-a425986b8704">
+<img width="1440" alt="Screenshot 2024-08-17 at 10 01 31 PM" src="https://github.com/user-attachments/assets/26b1756f-35a7-404c-885d-4d205612ecb4">
 <img width="1440" alt="Screenshot 2024-08-17 at 9 32 28 PM" src="https://github.com/user-attachments/assets/43e555b9-1cbb-4f8a-bddf-1b36bca71088">
 
 
