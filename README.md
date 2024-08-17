@@ -4,7 +4,7 @@
 
 The junior developers at COSC were tasked with creating a website for COSC merchandise to showcase the launch of their new products. The project was developed using ReactJS. However, during the testing phase, senior developers identified several issues with the website. In this assignment, you will assist the junior developers in resolving these issues by applying fundamental concepts of ReactJS.
 
-## Objective for This Assignment
+## Objective
 
 The primary objective of this assignment is to assist the junior developers in addressing and resolving the issues identified with the COSC merchandise website. The following errors have been noted:
 
