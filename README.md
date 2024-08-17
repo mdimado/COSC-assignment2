@@ -43,3 +43,12 @@ Your task is to rectify these errors. Detailed descriptions of each issue are pr
 4. **Conditional Rendering for Username Display:**
    - The shop page lacks a personalized welcome message. To address this:
      - Implement conditional rendering in the `Shop` component to display the username if it is provided, or a generic greeting if it is not.
+
+## Expected outputs
+
+<img width="1440" alt="Screenshot 2024-08-17 at 9 31 41 PM" src="https://github.com/user-attachments/assets/a67d98b7-9168-438e-99e5-9884106b117d">
+<img width="1440" alt="Screenshot 2024-08-17 at 9 32 08 PM" src="https://github.com/user-attachments/assets/7e4d3f93-2d94-445b-8f03-a425986b8704">
+<img width="1440" alt="Screenshot 2024-08-17 at 9 32 28 PM" src="https://github.com/user-attachments/assets/43e555b9-1cbb-4f8a-bddf-1b36bca71088">
+
+
+
